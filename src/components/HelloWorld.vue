@@ -43,9 +43,11 @@ const count = ref<number>(0);
 const color = ref<string>("red");
 </script>
 
-<style scoped>
-a {
-  color: #42b983;
+<style lang="scss" scoped>
+p {
+  a {
+    color: #42b983;
+  }
 }
 
 label {
