@@ -6,6 +6,7 @@
 <script lang="ts" setup>
 import { ref } from "vue";
 import HelloWorld from "./components/HelloWorld.vue";
+
 const msg = ref<string>("Hello Vue 3 + TypeScript + Vite");
 </script>
 
