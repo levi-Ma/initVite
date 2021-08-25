@@ -1,5 +1,6 @@
 # Vue 3 + Typescript + [Vite](https://cn.vitejs.dev/) + Prettier + ESLint + Tailwind CSS
 
+## 推荐使用`yarn`包管理工具
 ## 使用 Volar 进行开发
 
 1. 在插件中心搜索 Volar,并停用 Vetur;
