@@ -1,4 +1,4 @@
-# Vue 3 + Typescript + Vite + Prettier + ESLint + Tailwind CSS
+# Vue 3 + Typescript + [Vite](https://cn.vitejs.dev/) + Prettier + ESLint + Tailwind CSS
 
 ## 使用 Volar 进行开发
 
