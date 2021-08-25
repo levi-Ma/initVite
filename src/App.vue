@@ -1,10 +1,12 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
+  <HelloWorld :msg="msg" />
 </template>
 
 <script lang="ts" setup>
-import HelloWorld from './components/HelloWorld.vue'
+import { ref } from "vue";
+import HelloWorld from "./components/HelloWorld.vue";
+const msg = ref<string>("Hello Vue 3 + TypeScript + Vite");
 </script>
 
 <style>
